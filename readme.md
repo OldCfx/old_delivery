@@ -4,7 +4,7 @@ A highly immersive and optimized parcel delivery job for **FiveM**. This script 
 
 ## 📺 Preview
 
-[](https://youtu.be/_hPf616SQDg)
+![Preview](preview.gif)
 
 ## 🚀 Main Features
 
